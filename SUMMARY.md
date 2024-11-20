@@ -6,7 +6,7 @@
 
 # algorithm
 * [机器学习]
-  - [综述]
+  - [综述](1-Introduction/1-Introduction.md)
   - [Scikit-Learn]
 
 * [深度学习]
